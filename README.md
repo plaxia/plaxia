@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Berke</h1>
-<h3 align="center">A passionate frontend devA passionate FullStack Web Developer from Turkeyeloper from India</h3>
+<h3 align="center">A passionate frontend devA passionate FullStack Web Developer from Turkey</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=plaxia&label=Profile%20views&color=0e75b6&style=flat" alt="plaxia" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=plaxia" alt="plaxia" /></a> </p>
 
@@ -16,3 +18,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=plaxia&show_icons=true&locale=en&layout=compact" alt="plaxia" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=plaxia&show_icons=true&locale=en" alt="plaxia" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=plaxia&" alt="plaxia" /></p>
